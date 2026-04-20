@@ -1,0 +1,183 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="966" height="1212" viewBox="0 0 966 1212">
+  <rect width="966" height="1212" fill="#f7f7f7"/>
+
+  <g font-family="Arial, 'Noto Sans SC', 'Microsoft YaHei', sans-serif" font-size="22" fill="#111" text-anchor="middle">
+    <rect x="503" y="41" width="357" height="140" fill="#5466de"/>
+    <rect x="600" y="73" width="142" height="112" fill="#f7f7f7"/>
+    <text x="681" y="65" font-size="20">高架库出库（2层）</text>
+
+    <rect x="650" y="185" width="102" height="37" fill="#5bb86e"/>
+    <text x="701" y="210" font-size="18">充电间</text>
+
+    <rect x="506" y="216" width="99" height="277" fill="#f24d4d"/>
+    <text x="556" y="314">
+      <tspan x="556" dy="0">高</tspan>
+      <tspan x="556" dy="1.2em">架</tspan>
+      <tspan x="556" dy="1.2em">库</tspan>
+    </text>
+
+    <rect x="335" y="295" width="102" height="65" fill="#f24d4d"/>
+    <text x="386" y="325" font-size="18">
+      <tspan x="386" dy="0">膨胀生丝</tspan>
+      <tspan x="386" dy="1.1em">柜</tspan>
+    </text>
+
+    <rect x="335" y="359" width="102" height="49" fill="#b04db2"/>
+    <text x="386" y="377" font-size="18">
+      <tspan x="386" dy="0">膨胀预备</tspan>
+      <tspan x="386" dy="1.1em">柜</tspan>
+    </text>
+
+    <rect x="335" y="407" width="42" height="106" fill="#5bb86e"/>
+    <text x="356" y="438" font-size="18">
+      <tspan x="356" dy="0">膨胀</tspan>
+      <tspan x="356" dy="1.1em">备料</tspan>
+      <tspan x="356" dy="1.1em">段</tspan>
+    </text>
+
+    <rect x="377" y="407" width="60" height="165" fill="#f24d4d"/>
+    <text x="407" y="445" font-size="18">
+      <tspan x="407" dy="0">膨胀切</tspan>
+      <tspan x="407" dy="1.1em">丝段</tspan>
+    </text>
+
+    <rect x="335" y="513" width="102" height="59" fill="#f24d4d"/>
+    <text x="386" y="536" font-size="18">
+      <tspan x="386" dy="0">膨胀冷</tspan>
+      <tspan x="386" dy="1.1em">端</tspan>
+    </text>
+
+    <rect x="335" y="572" width="102" height="214" fill="#f3e679"/>
+    <text x="386" y="678" font-size="20">除尘</text>
+
+    <rect x="511" y="628" width="94" height="114" fill="#f24d4d"/>
+    <text x="558" y="688" font-size="18">
+      <tspan x="558" dy="0">膨胀罐</tspan>
+      <tspan x="558" dy="1.1em">体区</tspan>
+    </text>
+
+    <rect x="511" y="742" width="94" height="112" fill="#5bb86e"/>
+    <text x="558" y="792" font-size="18">
+      <tspan x="558" dy="0">膨胀热</tspan>
+      <tspan x="558" dy="1.1em">端</tspan>
+    </text>
+
+    <rect x="116" y="897" width="173" height="280" fill="#f24d4d"/>
+    <text x="202" y="1020">
+      <tspan x="202" dy="0">烟丝</tspan>
+      <tspan x="202" dy="1.2em">库</tspan>
+    </text>
+
+    <rect x="358" y="851" width="64" height="46" fill="#c42d25"/>
+    <text x="390" y="883" font-size="18">压棒</text>
+
+    <rect x="289" y="897" width="283" height="74" fill="#5bb86e"/>
+    <text x="430" y="942">外运烟丝库</text>
+
+    <rect x="289" y="972" width="166" height="73" fill="#b04db2"/>
+    <text x="372" y="1017">混配柜</text>
+
+    <rect x="455" y="972" width="117" height="73" fill="#f3e679"/>
+    <text x="514" y="1001" font-size="18">
+      <tspan x="514" dy="0">半成品</tspan>
+      <tspan x="514" dy="1.1em">装箱</tspan>
+    </text>
+
+    <rect x="572" y="897" width="33" height="148" fill="#b04db2"/>
+    <text x="588" y="943" font-size="18">
+      <tspan x="588" dy="0">回</tspan>
+      <tspan x="588" dy="1.1em">丝</tspan>
+    </text>
+
+    <rect x="289" y="1046" width="100" height="131" fill="#f3e679"/>
+    <text x="339" y="1104" font-size="18">
+      <tspan x="339" dy="0">加香</tspan>
+      <tspan x="339" dy="1.1em">段</tspan>
+    </text>
+
+    <rect x="389" y="1046" width="216" height="131" fill="#f24d4d"/>
+    <text x="497" y="1106">混丝柜</text>
+
+    <rect x="605" y="277" width="135" height="80" fill="#f3e679"/>
+    <text x="672" y="332">薄片线</text>
+
+    <rect x="605" y="357" width="135" height="172" fill="#b04db2"/>
+    <text x="672" y="430">预混柜</text>
+
+    <rect x="605" y="529" width="135" height="369" fill="#f3e679"/>
+    <text x="672" y="721">储叶柜</text>
+
+    <rect x="605" y="898" width="135" height="136" fill="#afbf19"/>
+    <text x="672" y="949">
+      <tspan x="672" dy="0">膨胀</tspan>
+      <tspan x="672" dy="1.1em">丝柜</tspan>
+    </text>
+
+    <rect x="605" y="1034" width="135" height="143" fill="#5bb86e"/>
+    <text x="672" y="1088">
+      <tspan x="672" dy="0">梗丝</tspan>
+      <tspan x="672" dy="1.1em">柜</tspan>
+    </text>
+
+    <rect x="739" y="221" width="99" height="112" fill="#f24d4d"/>
+    <text x="789" y="261" font-size="18">
+      <tspan x="789" dy="0">叶片</tspan>
+      <tspan x="789" dy="1.1em">开包</tspan>
+      <tspan x="789" dy="1.1em">段</tspan>
+    </text>
+
+    <rect x="739" y="333" width="99" height="186" fill="#f3e679"/>
+    <text x="789" y="405" font-size="18">
+      <tspan x="789" dy="0">叶片</tspan>
+      <tspan x="789" dy="1.1em">松散</tspan>
+      <tspan x="789" dy="1.1em">回潮</tspan>
+      <tspan x="789" dy="1.1em">段</tspan>
+    </text>
+
+    <rect x="739" y="519" width="99" height="202" fill="#5bb86e"/>
+    <text x="789" y="616" font-size="18">
+      <tspan x="789" dy="0">叶片加</tspan>
+      <tspan x="789" dy="1.1em">料段</tspan>
+    </text>
+
+    <rect x="739" y="721" width="99" height="222" fill="#b04db2"/>
+    <text x="789" y="865" font-size="18">
+      <tspan x="789" dy="0">叶丝</tspan>
+      <tspan x="789" dy="1.1em">切丝</tspan>
+      <tspan x="789" dy="1.1em">段</tspan>
+    </text>
+
+    <rect x="739" y="943" width="99" height="234" fill="#588dbc"/>
+    <text x="789" y="1016" font-size="18">
+      <tspan x="789" dy="0">叶丝</tspan>
+      <tspan x="789" dy="1.1em">烘丝</tspan>
+      <tspan x="789" dy="1.1em">段</tspan>
+    </text>
+
+    <rect x="838" y="221" width="55" height="204" fill="#b04db2"/>
+    <text x="865" y="266" font-size="18">
+      <tspan x="865" dy="0">原梗</tspan>
+      <tspan x="865" dy="1.1em">段</tspan>
+    </text>
+
+    <rect x="838" y="425" width="55" height="105" fill="#5bb86e"/>
+    <text x="865" y="463" font-size="18">
+      <tspan x="865" dy="0">原梗</tspan>
+      <tspan x="865" dy="1.1em">柜</tspan>
+    </text>
+
+    <rect x="838" y="530" width="55" height="647" fill="#eb6a93"/>
+    <text x="865" y="930" font-size="18">
+      <tspan x="865" dy="0">梗丝</tspan>
+      <tspan x="865" dy="1.1em">处理</tspan>
+      <tspan x="865" dy="1.1em">段</tspan>
+    </text>
+
+    <rect x="893" y="298" width="36" height="127" fill="#f24d4d"/>
+    <text x="911" y="343" font-size="18">
+      <tspan x="911" dy="0">充</tspan>
+      <tspan x="911" dy="1.1em">电</tspan>
+      <tspan x="911" dy="1.1em">间</tspan>
+    </text>
+  </g>
+</svg>
