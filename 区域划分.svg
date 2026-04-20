@@ -56,16 +56,16 @@
   <g id="zone-07" class="zone" data-label="膨胀备料段">
     <title>膨胀备料段</title>
     <rect x="681" y="227" width="104" height="41" fill="#6dc388"/>
-    <text x="733.0" y="247.5" text-anchor="middle" dominant-baseline="middle" font-size="18.0">
-      <tspan x="733.0" dy="0.0">膨胀备料段</tspan>
+    <text x="733.0" y="239.8" text-anchor="middle" dominant-baseline="middle" font-size="13.5">
+      <tspan x="733.0" dy="0.0">膨胀</tspan>
+      <tspan x="733.0" dy="16.2">备料段</tspan>
     </text>
   </g>
   <g id="zone-08" class="zone" data-label="膨胀预备柜">
     <title>膨胀预备柜</title>
     <rect x="786" y="227" width="48" height="101" fill="#b56bc7"/>
-    <text transform="translate(810.0 277.5) rotate(90)" text-anchor="middle" dominant-baseline="middle" font-size="13.3">
-      <tspan x="0" dy="0.0">膨胀</tspan>
-      <tspan x="0" dy="15.3">预备柜</tspan>
+    <text transform="translate(810.0 277.5) rotate(90)" text-anchor="middle" dominant-baseline="middle" font-size="16.3">
+      <tspan x="0" dy="0.0">膨胀预备柜</tspan>
     </text>
   </g>
   <g id="zone-09" class="zone" data-label="膨胀生丝柜">
@@ -177,7 +177,7 @@
     <title>充电间（右侧）</title>
     <rect x="972" y="541" width="35" height="101" fill="#66bc7a"/>
     <text transform="translate(989.5 591.5) rotate(90)" text-anchor="middle" dominant-baseline="middle" font-size="15.8">
-      <tspan x="0" dy="0.0">充电间</tspan>
+      <tspan x="0" dy="0.0">右充电间</tspan>
     </text>
   </g>
   <g id="zone-24" class="zone" data-label="叶片开包段">
@@ -243,7 +243,7 @@
     <title>充电间（下侧）</title>
     <rect x="768" y="785" width="127" height="34" fill="#4ea9a0"/>
     <text x="831.5" y="802.0" text-anchor="middle" dominant-baseline="middle" font-size="20.9">
-      <tspan x="831.5" dy="0.0">充电间</tspan>
+      <tspan x="831.5" dy="0.0">下充电间</tspan>
     </text>
   </g>
 </svg>
