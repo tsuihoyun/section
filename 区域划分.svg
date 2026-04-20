@@ -5,7 +5,7 @@
   <style>
     .canvas { fill: #f6f4ef; }
     .zone { cursor: pointer; }
-    .zone rect { stroke: rgba(40, 48, 64, 0.12); stroke-width: 1.25; rx: 4; ry: 4; transition: filter 160ms ease, transform 160ms ease, opacity 160ms ease; }
+    .zone rect { stroke: rgba(40, 48, 64, 0.12); stroke-width: 1.25; rx: 4; ry: 4; transition: filter 160ms ease, stroke 160ms ease; }
     .zone:hover rect, .zone:focus rect { filter: brightness(1.06); stroke: rgba(25, 35, 52, 0.32); }
     .zone text { fill: #1f2430; font-family: "Noto Sans SC", "Microsoft YaHei", "PingFang SC", sans-serif; font-weight: 600; letter-spacing: 0.5px; pointer-events: none; user-select: none; }
   </style>
@@ -241,7 +241,7 @@
   </g>
   <g id="zone-31" class="zone" data-label="充电间（下侧）">
     <title>充电间（下侧）</title>
-    <rect x="768" y="785" width="127" height="34" fill="#ef6b62"/>
+    <rect x="768" y="785" width="127" height="34" fill="#4ea9a0"/>
     <text x="831.5" y="802.0" text-anchor="middle" dominant-baseline="middle" font-size="20.9">
       <tspan x="831.5" dy="0.0">充电间</tspan>
     </text>
