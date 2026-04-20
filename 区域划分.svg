@@ -5,7 +5,7 @@
   <style>
     .canvas { fill: #f6f4ef; }
     .zone rect { stroke: rgba(40, 48, 64, 0.12); stroke-width: 1.25; transition: filter 160ms ease, stroke 160ms ease; }
-    .zone:hover rect, .zone:focus rect { filter: brightness(1.06); stroke: rgba(25, 35, 52, 0.32); }
+    .zone:hover rect, .zone:focus rect, .zone:focus-visible rect { filter: brightness(1.06); stroke: rgba(25, 35, 52, 0.32); }
     .zone text { fill: #1f2430; font-family: "Noto Sans SC", "Microsoft YaHei", "PingFang SC", sans-serif; font-weight: 600; letter-spacing: 0.5px; pointer-events: none; user-select: none; }
   </style>
   <rect class="canvas" x="0" y="0" width="1189" height="833" rx="4" ry="4"/>
@@ -55,9 +55,9 @@
   <g id="zone-07" class="zone" data-label="膨胀备料段">
     <title>膨胀备料段</title>
     <rect rx="4" ry="4" x="681" y="227" width="104" height="41" fill="#6dc388"/>
-    <text x="733.0" y="239.8" text-anchor="middle" dominant-baseline="middle" font-size="13.5">
+    <text x="733.0" y="238.5" text-anchor="middle" dominant-baseline="middle" font-size="16.0">
       <tspan x="733.0" dy="0.0">膨胀</tspan>
-      <tspan x="733.0" dy="16.2">备料段</tspan>
+      <tspan x="733.0" dy="18.5">备料段</tspan>
     </text>
   </g>
   <g id="zone-08" class="zone" data-label="膨胀预备柜">
@@ -225,9 +225,9 @@
   <g id="zone-29" class="zone" data-label="梗丝处理段">
     <title>梗丝处理段</title>
     <rect rx="4" ry="4" x="15" y="729" width="648" height="55" fill="#e6789b"/>
-    <text transform="translate(339.0 756.5) rotate(90)" text-anchor="middle" dominant-baseline="middle" font-size="12.2">
+    <text transform="translate(339.0 756.5) rotate(90)" text-anchor="middle" dominant-baseline="middle" font-size="16.0">
       <tspan x="0" dy="0.0">梗丝</tspan>
-      <tspan x="0" dy="14.0">处理段</tspan>
+      <tspan x="0" dy="18.4">处理段</tspan>
     </text>
   </g>
   <g id="zone-30" class="zone" data-label="原梗段">
