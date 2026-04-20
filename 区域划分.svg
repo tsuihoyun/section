@@ -10,42 +10,42 @@
     .zone text { fill: #1f2430; font-family: "Noto Sans SC", "Microsoft YaHei", "PingFang SC", sans-serif; font-weight: 600; letter-spacing: 0.5px; pointer-events: none; user-select: none; }
   </style>
   <rect class="canvas" x="0" y="0" width="1189" height="833"/>
-  <g id="zone-01" class="zone" tabindex="0" data-label="烟丝库">
+  <g id="zone-01" class="zone" data-label="烟丝库">
     <title>烟丝库</title>
     <rect x="15" y="9" width="294" height="170" fill="#ef6b62"/>
     <text transform="translate(162.0 94.0) rotate(90)" text-anchor="middle" dominant-baseline="middle" font-size="26.0">
       <tspan x="0" dy="0.0">烟丝库</tspan>
     </text>
   </g>
-  <g id="zone-02" class="zone" tabindex="0" data-label="加香段">
+  <g id="zone-02" class="zone" data-label="加香段">
     <title>加香段</title>
     <rect x="15" y="180" width="132" height="99" fill="#f1df7b"/>
     <text transform="translate(81.0 229.5) rotate(90)" text-anchor="middle" dominant-baseline="middle" font-size="25.9">
       <tspan x="0" dy="0.0">加香段</tspan>
     </text>
   </g>
-  <g id="zone-03" class="zone" tabindex="0" data-label="混配柜">
+  <g id="zone-03" class="zone" data-label="混配柜">
     <title>混配柜</title>
     <rect x="148" y="180" width="73" height="166" fill="#b56bc7"/>
     <text transform="translate(184.5 263.0) rotate(90)" text-anchor="middle" dominant-baseline="middle" font-size="26.0">
       <tspan x="0" dy="0.0">混配柜</tspan>
     </text>
   </g>
-  <g id="zone-04" class="zone" tabindex="0" data-label="外运烟丝库">
+  <g id="zone-04" class="zone" data-label="外运烟丝库">
     <title>外运烟丝库</title>
     <rect x="222" y="180" width="74" height="284" fill="#66bc7a"/>
     <text transform="translate(259.0 322.0) rotate(90)" text-anchor="middle" dominant-baseline="middle" font-size="26.0">
       <tspan x="0" dy="0.0">外运烟丝库</tspan>
     </text>
   </g>
-  <g id="zone-05" class="zone" tabindex="0" data-label="除尘">
+  <g id="zone-05" class="zone" data-label="除尘">
     <title>除尘</title>
     <rect x="408" y="227" width="212" height="101" fill="#f1df7b"/>
     <text transform="translate(514.0 277.5) rotate(90)" text-anchor="middle" dominant-baseline="middle" font-size="26.0">
       <tspan x="0" dy="0.0">除尘</tspan>
     </text>
   </g>
-  <g id="zone-06" class="zone" tabindex="0" data-label="膨胀冷端">
+  <g id="zone-06" class="zone" data-label="膨胀冷端">
     <title>膨胀冷端</title>
     <rect x="621" y="227" width="164" height="101" fill="#ef6b62"/>
     <text transform="translate(703.0 277.5) rotate(90)" text-anchor="middle" dominant-baseline="middle" font-size="26.0">
@@ -53,14 +53,14 @@
       <tspan x="0" dy="29.9">冷端</tspan>
     </text>
   </g>
-  <g id="zone-07" class="zone" tabindex="0" data-label="膨胀备料段">
+  <g id="zone-07" class="zone" data-label="膨胀备料段">
     <title>膨胀备料段</title>
     <rect x="681" y="227" width="104" height="41" fill="#6dc388"/>
     <text x="733.0" y="247.5" text-anchor="middle" dominant-baseline="middle" font-size="18.0">
       <tspan x="733.0" dy="0.0">膨胀备料段</tspan>
     </text>
   </g>
-  <g id="zone-08" class="zone" tabindex="0" data-label="膨胀预备柜">
+  <g id="zone-08" class="zone" data-label="膨胀预备柜">
     <title>膨胀预备柜</title>
     <rect x="786" y="227" width="48" height="101" fill="#b56bc7"/>
     <text transform="translate(810.0 277.5) rotate(90)" text-anchor="middle" dominant-baseline="middle" font-size="13.3">
@@ -68,7 +68,7 @@
       <tspan x="0" dy="15.3">预备柜</tspan>
     </text>
   </g>
-  <g id="zone-09" class="zone" tabindex="0" data-label="膨胀生丝柜">
+  <g id="zone-09" class="zone" data-label="膨胀生丝柜">
     <title>膨胀生丝柜</title>
     <rect x="835" y="227" width="62" height="101" fill="#ef6b62"/>
     <text transform="translate(866.0 277.5) rotate(90)" text-anchor="middle" dominant-baseline="middle" font-size="19.2">
@@ -76,21 +76,21 @@
       <tspan x="0" dy="22.0">生丝柜</tspan>
     </text>
   </g>
-  <g id="zone-10" class="zone" tabindex="0" data-label="压棒">
+  <g id="zone-10" class="zone" data-label="压棒">
     <title>压棒</title>
     <rect x="297" y="250" width="44" height="63" fill="#d75a52"/>
     <text transform="translate(319.0 281.5) rotate(90)" text-anchor="middle" dominant-baseline="middle" font-size="21.4">
       <tspan x="0" dy="0.0">压棒</tspan>
     </text>
   </g>
-  <g id="zone-11" class="zone" tabindex="0" data-label="混丝柜">
+  <g id="zone-11" class="zone" data-label="混丝柜">
     <title>混丝柜</title>
     <rect x="15" y="280" width="132" height="216" fill="#ef6b62"/>
     <text transform="translate(81.0 388.0) rotate(90)" text-anchor="middle" dominant-baseline="middle" font-size="26.0">
       <tspan x="0" dy="0.0">混丝柜</tspan>
     </text>
   </g>
-  <g id="zone-12" class="zone" tabindex="0" data-label="半成品装箱">
+  <g id="zone-12" class="zone" data-label="半成品装箱">
     <title>半成品装箱</title>
     <rect x="148" y="347" width="73" height="117" fill="#f1df7b"/>
     <text transform="translate(184.5 405.5) rotate(90)" text-anchor="middle" dominant-baseline="middle" font-size="23.8">
@@ -98,14 +98,14 @@
       <tspan x="0" dy="27.3">装箱</tspan>
     </text>
   </g>
-  <g id="zone-13" class="zone" tabindex="0" data-label="高架库">
+  <g id="zone-13" class="zone" data-label="高架库">
     <title>高架库</title>
     <rect x="702" y="398" width="274" height="98" fill="#ef6b62"/>
     <text transform="translate(839.0 447.0) rotate(90)" text-anchor="middle" dominant-baseline="middle" font-size="25.6">
       <tspan x="0" dy="0.0">高架库</tspan>
     </text>
   </g>
-  <g id="zone-14" class="zone" tabindex="0" data-label="高架库出库（2层）">
+  <g id="zone-14" class="zone" data-label="高架库出库（2层）">
     <title>高架库出库（2层）</title>
     <rect x="1020" y="398" width="139" height="356" fill="#ef6b62"/>
     <text transform="translate(1089.5 576.0) rotate(90)" text-anchor="middle" dominant-baseline="middle" font-size="26.0">
@@ -114,7 +114,7 @@
       <tspan x="0" dy="29.9">（2层）</tspan>
     </text>
   </g>
-  <g id="zone-15" class="zone" tabindex="0" data-label="膨胀热端">
+  <g id="zone-15" class="zone" data-label="膨胀热端">
     <title>膨胀热端</title>
     <rect x="340" y="403" width="112" height="93" fill="#66bc7a"/>
     <text transform="translate(396.0 449.5) rotate(90)" text-anchor="middle" dominant-baseline="middle" font-size="26.0">
@@ -122,7 +122,7 @@
       <tspan x="0" dy="29.9">热端</tspan>
     </text>
   </g>
-  <g id="zone-16" class="zone" tabindex="0" data-label="膨胀罐体区">
+  <g id="zone-16" class="zone" data-label="膨胀罐体区">
     <title>膨胀罐体区</title>
     <rect x="453" y="403" width="111" height="93" fill="#ef6b62"/>
     <text transform="translate(508.5 449.5) rotate(90)" text-anchor="middle" dominant-baseline="middle" font-size="24.1">
@@ -130,21 +130,21 @@
       <tspan x="0" dy="27.7">体区</tspan>
     </text>
   </g>
-  <g id="zone-17" class="zone" tabindex="0" data-label="回丝">
+  <g id="zone-17" class="zone" data-label="回丝">
     <title>回丝</title>
     <rect x="148" y="465" width="148" height="31" fill="#b56bc7"/>
     <text x="222.0" y="480.5" text-anchor="middle" dominant-baseline="middle" font-size="18.3">
       <tspan x="222.0" dy="0.0">回丝</tspan>
     </text>
   </g>
-  <g id="zone-18" class="zone" tabindex="0" data-label="梗丝柜">
+  <g id="zone-18" class="zone" data-label="梗丝柜">
     <title>梗丝柜</title>
     <rect x="15" y="497" width="145" height="133" fill="#66bc7a"/>
     <text transform="translate(87.5 563.5) rotate(90)" text-anchor="middle" dominant-baseline="middle" font-size="26.0">
       <tspan x="0" dy="0.0">梗丝柜</tspan>
     </text>
   </g>
-  <g id="zone-19" class="zone" tabindex="0" data-label="膨胀丝柜">
+  <g id="zone-19" class="zone" data-label="膨胀丝柜">
     <title>膨胀丝柜</title>
     <rect x="161" y="497" width="135" height="133" fill="#a8bc36"/>
     <text transform="translate(228.5 563.5) rotate(90)" text-anchor="middle" dominant-baseline="middle" font-size="26.0">
@@ -152,35 +152,35 @@
       <tspan x="0" dy="29.9">丝柜</tspan>
     </text>
   </g>
-  <g id="zone-20" class="zone" tabindex="0" data-label="储叶柜">
+  <g id="zone-20" class="zone" data-label="储叶柜">
     <title>储叶柜</title>
     <rect x="297" y="497" width="366" height="133" fill="#f1df7b"/>
     <text transform="translate(480.0 563.5) rotate(90)" text-anchor="middle" dominant-baseline="middle" font-size="26.0">
       <tspan x="0" dy="0.0">储叶柜</tspan>
     </text>
   </g>
-  <g id="zone-21" class="zone" tabindex="0" data-label="预混柜">
+  <g id="zone-21" class="zone" data-label="预混柜">
     <title>预混柜</title>
     <rect x="664" y="497" width="172" height="133" fill="#b56bc7"/>
     <text transform="translate(750.0 563.5) rotate(90)" text-anchor="middle" dominant-baseline="middle" font-size="26.0">
       <tspan x="0" dy="0.0">预混柜</tspan>
     </text>
   </g>
-  <g id="zone-22" class="zone" tabindex="0" data-label="薄片线">
+  <g id="zone-22" class="zone" data-label="薄片线">
     <title>薄片线</title>
     <rect x="837" y="497" width="79" height="132" fill="#f1df7b"/>
     <text transform="translate(876.5 563.0) rotate(90)" text-anchor="middle" dominant-baseline="middle" font-size="26.0">
       <tspan x="0" dy="0.0">薄片线</tspan>
     </text>
   </g>
-  <g id="zone-23" class="zone" tabindex="0" data-label="充电间">
-    <title>充电间</title>
+  <g id="zone-23" class="zone" data-label="充电间（右侧）">
+    <title>充电间（右侧）</title>
     <rect x="972" y="541" width="35" height="101" fill="#66bc7a"/>
     <text transform="translate(989.5 591.5) rotate(90)" text-anchor="middle" dominant-baseline="middle" font-size="15.8">
       <tspan x="0" dy="0.0">充电间</tspan>
     </text>
   </g>
-  <g id="zone-24" class="zone" tabindex="0" data-label="叶片开包段">
+  <g id="zone-24" class="zone" data-label="叶片开包段">
     <title>叶片开包段</title>
     <rect x="861" y="630" width="110" height="98" fill="#ef6b62"/>
     <text transform="translate(916.0 679.0) rotate(90)" text-anchor="middle" dominant-baseline="middle" font-size="25.6">
@@ -188,7 +188,7 @@
       <tspan x="0" dy="29.5">开包段</tspan>
     </text>
   </g>
-  <g id="zone-25" class="zone" tabindex="0" data-label="叶丝松丝段">
+  <g id="zone-25" class="zone" data-label="叶丝松丝段">
     <title>叶丝松丝段</title>
     <rect x="15" y="631" width="235" height="97" fill="#5b8fc3"/>
     <text transform="translate(132.5 679.5) rotate(90)" text-anchor="middle" dominant-baseline="middle" font-size="26.0">
@@ -197,7 +197,7 @@
       <tspan x="0" dy="29.9">段</tspan>
     </text>
   </g>
-  <g id="zone-26" class="zone" tabindex="0" data-label="叶丝切丝段">
+  <g id="zone-26" class="zone" data-label="叶丝切丝段">
     <title>叶丝切丝段</title>
     <rect x="251" y="631" width="222" height="97" fill="#b56bc7"/>
     <text transform="translate(362.0 679.5) rotate(90)" text-anchor="middle" dominant-baseline="middle" font-size="26.0">
@@ -206,7 +206,7 @@
       <tspan x="0" dy="29.9">段</tspan>
     </text>
   </g>
-  <g id="zone-27" class="zone" tabindex="0" data-label="叶片加料段">
+  <g id="zone-27" class="zone" data-label="叶片加料段">
     <title>叶片加料段</title>
     <rect x="474" y="631" width="294" height="153" fill="#66bc7a"/>
     <text transform="translate(621.0 707.5) rotate(90)" text-anchor="middle" dominant-baseline="middle" font-size="26.0">
@@ -214,7 +214,7 @@
       <tspan x="0" dy="29.9">加料段</tspan>
     </text>
   </g>
-  <g id="zone-28" class="zone" tabindex="0" data-label="叶片松散回潮段">
+  <g id="zone-28" class="zone" data-label="叶片松散回潮段">
     <title>叶片松散回潮段</title>
     <rect x="676" y="631" width="184" height="97" fill="#f1df7b"/>
     <text transform="translate(768.0 679.5) rotate(90)" text-anchor="middle" dominant-baseline="middle" font-size="25.3">
@@ -223,7 +223,7 @@
       <tspan x="0" dy="29.1">回潮段</tspan>
     </text>
   </g>
-  <g id="zone-29" class="zone" tabindex="0" data-label="梗丝处理段">
+  <g id="zone-29" class="zone" data-label="梗丝处理段">
     <title>梗丝处理段</title>
     <rect x="15" y="729" width="648" height="55" fill="#e6789b"/>
     <text transform="translate(339.0 756.5) rotate(90)" text-anchor="middle" dominant-baseline="middle" font-size="12.2">
@@ -231,7 +231,7 @@
       <tspan x="0" dy="14.0">处理段</tspan>
     </text>
   </g>
-  <g id="zone-30" class="zone" tabindex="0" data-label="原梗段">
+  <g id="zone-30" class="zone" data-label="原梗段">
     <title>原梗段</title>
     <rect x="768" y="729" width="203" height="90" fill="#b56bc7"/>
     <text transform="translate(869.5 774.0) rotate(90)" text-anchor="middle" dominant-baseline="middle" font-size="26.0">
@@ -239,8 +239,8 @@
       <tspan x="0" dy="29.9">段</tspan>
     </text>
   </g>
-  <g id="zone-31" class="zone" tabindex="0" data-label="充电间">
-    <title>充电间</title>
+  <g id="zone-31" class="zone" data-label="充电间（下侧）">
+    <title>充电间（下侧）</title>
     <rect x="768" y="785" width="127" height="34" fill="#ef6b62"/>
     <text x="831.5" y="802.0" text-anchor="middle" dominant-baseline="middle" font-size="20.9">
       <tspan x="831.5" dy="0.0">充电间</tspan>
