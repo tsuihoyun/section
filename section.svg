@@ -2,9 +2,8 @@
   <rect width="966" height="1212" fill="#f7f7f7"/>
 
   <g font-family="Arial, 'Noto Sans SC', 'Microsoft YaHei', sans-serif" font-size="22" fill="#111" text-anchor="middle">
-    <rect x="503" y="41" width="357" height="140" fill="#5466de"/>
-    <rect x="600" y="73" width="142" height="112" fill="#f7f7f7"/>
-    <text x="681" y="65" font-size="20">高架库出库（2层）</text>
+    <path d="M503 41H860V113H742V181H503Z" fill="#5466de"/>
+    <text x="681" y="67" font-size="20">高架库出库（2层）</text>
 
     <rect x="650" y="185" width="102" height="37" fill="#5bb86e"/>
     <text x="701" y="210" font-size="18">充电间</text>
