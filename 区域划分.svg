@@ -4,7 +4,7 @@
   <desc id="desc">根据原始 PNG 重绘的可嵌入网页的 SVG 区域划分图，每个区块保留原图比例并提供居中标签。</desc>
   <style>
     .canvas { fill: #f6f4ef; }
-        .zone rect { stroke: rgba(40, 48, 64, 0.12); stroke-width: 1.25; transition: filter 160ms ease, stroke 160ms ease; }
+    .zone rect { stroke: rgba(40, 48, 64, 0.12); stroke-width: 1.25; transition: filter 160ms ease, stroke 160ms ease; }
     .zone:hover rect, .zone:focus rect { filter: brightness(1.06); stroke: rgba(25, 35, 52, 0.32); }
     .zone text { fill: #1f2430; font-family: "Noto Sans SC", "Microsoft YaHei", "PingFang SC", sans-serif; font-weight: 600; letter-spacing: 0.5px; pointer-events: none; user-select: none; }
   </style>
